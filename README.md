@@ -10,7 +10,7 @@ Backend: - Java 8
 
 Frontend: - Vue.js 2
 
-##Instalación y configuración
+## Instalación y configuración
 ### Configurar base de datos
 
 1 - Ir a TestBackend
