@@ -1,0 +1,1 @@
+export const MESSAGE_NOT_CONNECTION = 'No se ha podido establecer una conexión con el servidor'

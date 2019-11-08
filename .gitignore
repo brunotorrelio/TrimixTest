@@ -1,0 +1,32 @@
+.DS_Store
+test-frontend/node_modules
+/dist
+
+test-frontend/tests/e2e/videos/
+test-frontend/tests/e2e/screenshots/
+
+# local env files
+test-frontend/.env.local
+test-frontend/.env.*.local
+
+# Log files
+test-frontend/npm-debug.log*
+test-frontend/yarn-debug.log*
+test-frontend/yarn-error.log*
+
+# Editor directories and files
+test-frontend/.idea
+test-frontend/.vscode
+test-frontend/*.suo
+test-frontend/*.ntvs*
+test-frontend/*.njsproj
+test-frontend/*.sln
+test-frontend/*.sw?
+
+test-backend/target
+test-backend/.externalToolBuilders
+test-backend/.project
+test-backend/.settings
+test-backend/.classpath
+
+
