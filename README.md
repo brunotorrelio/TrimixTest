@@ -1,8 +1,16 @@
 # TrimixTest
 
+## Tecnologías utilizadas
+
+Base de Datos: PostgreSQL 9.4
+
+Backend: - Java 8 
+         - Spring Framework 4
+         - Hibernate 5 
+
 ## Configurar base de datos
 
-1 - Ir a test-backend
+1 - Ir a TestBackend
 
 2 - Crear base de datos en postgresql llamada "trimix_test"
 
@@ -14,7 +22,7 @@
 
 ## Levantar backend server
 
-1 - En test-backend ejecutar $ mvn clean install para generar el archivo war de la aplicación
+1 - En TestBackend ejecutar $ mvn clean install para generar el archivo war de la aplicación
 
 2 - Crear imagen desde el archivo Dockerfile y ejecutar un contenedor con el puerto 8088 (el frontend, por defecto, estará realizando las peticiones a ese puerto)
 
