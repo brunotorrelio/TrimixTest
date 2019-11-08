@@ -23,10 +23,10 @@ test-frontend/*.njsproj
 test-frontend/*.sln
 test-frontend/*.sw?
 
-test-backend/target
-test-backend/.externalToolBuilders
-test-backend/.project
-test-backend/.settings
-test-backend/.classpath
+TestBackend/target
+TestBackend/.externalToolBuilders
+TestBackend/.project
+TestBackend/.settings
+TestBackend/.classpath
 
 
