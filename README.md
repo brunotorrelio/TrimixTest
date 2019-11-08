@@ -1,6 +1,6 @@
 # TrimixTest
 
-## Tecnologías utilizadas
+### Tecnologías utilizadas
 
 Base de Datos: PostgreSQL 9.4
 
@@ -10,7 +10,8 @@ Backend: - Java 8
 
 Frontend: - Vue.js 2
 
-## Configurar base de datos
+##Instalación y configuración
+### Configurar base de datos
 
 1 - Ir a TestBackend
 
@@ -22,7 +23,7 @@ Frontend: - Vue.js 2
 
 5 - En context.xml colocar como ip del servidor de base de datos la ip de la máquina actual (no 127.0.0.1)
 
-## Levantar backend server
+### Levantar backend server
 
 1 - En TestBackend ejecutar $ mvn clean install para generar el archivo war de la aplicación
 
@@ -42,7 +43,7 @@ Frontend: - Vue.js 2
   
   3.6 - Run Server al proyecto TestBackend
   
-## Levantar frontend
+### Levantar frontend
 
 1 - Ir a test-frontend desde la terminal
 
