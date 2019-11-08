@@ -8,6 +8,8 @@ Backend: - Java 8
          - Spring Framework 4
          - Hibernate 5 
 
+Frontend: - Vue.js 2
+
 ## Configurar base de datos
 
 1 - Ir a TestBackend
